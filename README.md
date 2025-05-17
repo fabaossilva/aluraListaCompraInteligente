@@ -4,7 +4,7 @@ Programa sugestor do que se deve comprar, inclusive a quantidade, a partir de um
 #O problema
 
 Sempre que vou fazer compras fico na dúvida do que devo comprar.
-Acontece sempre de logo no dia seguinte sentir falta de algum item e muita vezes também percebo que comprei algo que já tinha em casa.
+Acontece sempre de logo no dia seguinte sentir falta de algum item e muita vezes também percebo que comprei algo que já tinha bastante em casa.
 
 #A solução
 
