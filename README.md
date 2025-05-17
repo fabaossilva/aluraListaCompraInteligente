@@ -19,8 +19,14 @@ Esse projeto processa um histórico de compras, identifica a média de consumo d
 
 Histórico de compras:
 
- Cada compra deve ser um pdf contendo os itens, informando a quantidade, unidade de medida e preço (no futuro pode ser criado um agente para transformar a nota fiscal em PDF nesse formato)
- A título de exemplo, tem alguns pdfs na pasta /content/compras do repositório. Se tiver seu histório, basta substituir o conteúdo
+ Cada compra deve ser um pdf contendo os itens, informando a quantidade, unidade de medida e preço (no futuro pode ser criado um agente para transformar a nota fiscal em PDF nesse formato);
 
-quatidade_dias_proxima_compra
- Vai ser solicitado para o usuário a quantidade de dias que a compra vai abastercer. Baseado na média de consumo por dia e essa informação, vai ser sugerida uma quandidade para próxima compra
+ O título do pdf deve ser a data da compra;
+
+ Os pdf têm que está na pasta /content/compras;
+ 
+ A título de exemplo, tem alguns pdfs na pasta /content/compras do repositório. Se tiver seu pŕoprio histório, basta substituir o conteúdo.
+
+Quantidade de dias a serem abastecidos:
+
+ Vai ser solicitado para o usuário a quantidade de dias que a compra vai abastercer. Baseado na média de consumo por dia e essa informação, conseguimos calcular a quandidade para próxima compra.
