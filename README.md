@@ -19,7 +19,7 @@ Esse projeto processa um histórico de compras, identifica a média de consumo d
 
 Histórico de compras:
 
- Cada compra deve ser um pdf contendo os itens, informando a quantidade e preço (no futuro pode ser criado um agente para transformar a nota fiscal em PDF nesse formato)
+ Cada compra deve ser um pdf contendo os itens, informando a quantidade, unidade de medida e preço (no futuro pode ser criado um agente para transformar a nota fiscal em PDF nesse formato)
  A título de exemplo, tem alguns pdfs na pasta /content/compras do repositório. Se tiver seu histório, basta substituir o conteúdo
 
 quatidade_dias_proxima_compra
