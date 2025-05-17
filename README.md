@@ -1,4 +1,7 @@
 # Projetos Imersão IA 2025
+
+Liberte-se das dúvidas e do desperdício nas suas compras! Cansado de ir ao mercado e esquecer itens essenciais ou comprar o que já tem de sobra? Apresentamos o seu novo aliado inteligente: um programa revolucionário que transforma seu histórico de compras em uma lista precisa e personalizada. Diga adeus às idas extras ao supermercado e ao acúmulo desnecessário de produtos! Com nossa análise avançada de consumo, você terá sempre a quantidade ideal de cada item, otimizando seu tempo, seu dinheiro e sua despensa. Faça compras com confiança e inteligência!
+
 Programa sugestor do que se deve comprar, inclusive a quantidade, a partir de um histórico de compras
 
 #O problema
