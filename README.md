@@ -13,7 +13,7 @@ Conseguimos principalmente calcular o consumo diário e fazer uma compra mais pr
 organizada, evitando itens de mais ou de menos;
 
 #
-Esse projeto processa um histórico de compras, identifica a média de consumo de cada item e no fim sugere uma lista de compra, informando a quantidade a ser comprada para suprir a necessidade dos dias de estoque desejado.
+Esse projeto processa um histórico de compras, identifica a média de consumo de cada item e no fim sugere uma lista de compras, informando a quantidade a ser comprada para suprir a necessidade dos dias de estoque desejado.
 
 #Entradas
 Histórico de compras:
