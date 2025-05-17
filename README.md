@@ -23,7 +23,7 @@ Histórico de compras:
 
  O título do pdf deve ser a data da compra;
 
- Os pdf têm que está na pasta /content/compras;
+ Os pdfs devem estar na pasta /content/compras;
  
  A título de exemplo, tem alguns pdfs na pasta /content/compras do repositório. Se tiver seu pŕoprio histório, basta substituir o conteúdo.
 
