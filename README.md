@@ -33,3 +33,13 @@ Histórico de compras:
 Quantidade de dias a serem abastecidos:
 
  Vai ser solicitado para o usuário a quantidade de dias que a compra vai abastercer. Baseado na média de consumo por dia e essa informação, conseguimos calcular a quandidade para próxima compra.
+
+#Como o sistema está organizado
+
+Primeriro lemos os PDF(histórico de compras) e geramos um texto único;
+
+Depois executamos um agente para identificar o intervalo de dias entre a primeira e ultima compra;
+
+Depois executamos outro agente para resumir/sumarizar todas as compras;
+
+Por fim executamos o ultimo agente que gera a lista a ser comprada;
