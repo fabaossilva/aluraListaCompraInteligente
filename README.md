@@ -8,9 +8,9 @@ Acontece sempre de logo no dia seguinte sentir falta de algum item e muita vezes
 
 #A solução
 
-Se analisarmos nossas compras é possível identificar o que compramos e a frequência
+Se analisarmos nossas compras é possível identificar o que compramos e a frequência.
 Conseguimos principalmente calcular o consumo diário e fazer uma compra mais precisa e 
-organizada, evitando itens de mais e de menos
+organizada, evitando itens de mais ou de menos;
 
 #
 Esse projeto processa um histórico de compras e defini o que dever ser comprado
