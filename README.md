@@ -2,11 +2,13 @@
 Programa sugestor do que se deve comprar, inclusive a quantidade, a partir de um histórico de compras
 
 #O problema
+
 Sempre que vou fazer compras fico na dúvida do que devo compra.
 Acontece sempre de logo no dia seguinte sentir falta de algum item
 Muita vezes também percebo que comprei algo que já tinha em casa
 
 #A solução
+
 Se analisarmos nossas compras é possível identificar o que compramos e a frequência
 Conseguimos principalmente calcular o consumo diário e fazer uma compra mais precisa e 
 organizada, evitando itens de mais e de menos
