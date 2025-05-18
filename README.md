@@ -1,14 +1,17 @@
 # Projetos Imersão IA 2025
+
+Liberte-se das dúvidas e do desperdício nas suas compras! Cansado de ir ao mercado e esquecer itens essenciais ou comprar o que já tem de sobra? Apresentamos o seu novo aliado inteligente: um programa revolucionário que transforma seu histórico de compras em uma lista precisa e personalizada. Diga adeus às idas extras ao supermercado e ao acúmulo desnecessário de produtos! Com nossa análise avançada de consumo, você terá sempre a quantidade ideal de cada item, otimizando seu tempo, seu dinheiro e sua despensa. Faça compras com confiança e inteligência!
+
 Programa sugestor do que se deve comprar, inclusive a quantidade, a partir de um histórico de compras
 
 #O problema
 
-Sempre que vou fazer compras fico na dúvida do que devo comprar.
-Acontece sempre de logo no dia seguinte sentir falta de algum item e muita vezes também percebo que comprei algo que já tinha bastante em casa.
+Sempre que vamos as compras ficamos na dúvida do que devemos comprar.
+Acontece sempre de logo no dia seguinte sentir falta de algum item e muita vezes também perceber que compramos algo que já tínhamos bastante em casa.
 
 #A solução
 
-Se analisarmos nossas compras é possível identificar o que compramos e a frequência.
+Se analisarmos nossas compras é possível identificar o que compramos e sua frequência.
 Conseguimos principalmente calcular o consumo diário e fazer uma compra mais precisa e 
 organizada, evitando itens de mais ou de menos;
 
@@ -30,3 +33,13 @@ Histórico de compras:
 Quantidade de dias a serem abastecidos:
 
  Vai ser solicitado para o usuário a quantidade de dias que a compra vai abastercer. Baseado na média de consumo por dia e essa informação, conseguimos calcular a quandidade para próxima compra.
+
+#Como o sistema está organizado
+
+Primeriro lemos os PDF(histórico de compras) e geramos um texto único;
+
+Depois executamos um agente para identificar o intervalo de dias entre a primeira e ultima compra;
+
+Depois executamos outro agente para resumir/sumarizar todas as compras;
+
+Por fim executamos o ultimo agente que gera a lista a ser comprada;
